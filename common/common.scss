@@ -403,9 +403,6 @@ div.poll {
 .nav-pills>li a.active {
     background-color: var(--tertiary);
 }
-.nav-pills>li:nth-last-child(2)>a {
-    display: none;
-}
 tbody {
     border-top: 1px solid var(--quaternary);
 }
