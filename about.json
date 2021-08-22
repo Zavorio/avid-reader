@@ -1,9 +1,9 @@
 {
-  "name": "Voracious Reader",
+  "name": "Avid Reader",
   "about_url": "https://zavorio.com",
-  "license_url": "https://github.com/Zavorio/voracious-reader/blob/main/LICENSE",
+  "license_url": "https://github.com/Zavorio/avid-reader/blob/main/README.md",
   "color_schemes": {
-    "Voracious Reader Palette": {
+    "Avid Reader Palette": {
         "primary": "333333",
         "secondary": "f2f2ec",
         "tertiary": "d16528",
