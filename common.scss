@@ -1,3 +1,4 @@
+// Google Fonts
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital@1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
@@ -6,7 +7,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Yrsa:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
-
 
 // Text styling
 body, h1, h2, h3, h4, h5 {
@@ -36,7 +36,6 @@ h4 {
 .cooked h4, .d-editor-preview h4 {
     font-size: var(--font-up-1-rem);
 }
-
 p {
     font-size: 22px;
     font-family: 'Yrsa', serif;
@@ -317,7 +316,6 @@ p>code, li>code, pre>code {
     background-color: var(--primary-low);
     transition: all 0.25s;
 }
-
 
 // Categories page: Boxes with featured topics
 .category-boxes-with-topics .featured-topics li a {

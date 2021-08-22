@@ -1,0 +1,22 @@
+{
+  "name": "Voracious Reader",
+  "about_url": "https://zavorio.com",
+  "license_url": "https://github.com/Zavorio/voracious-reader/blob/main/LICENSE",
+  "color_schemes": {
+    "Voracious Reader Palette": {
+        "primary": "333333",
+        "secondary": "f2f2ec",
+        "tertiary": "d16528",
+        "quaternary": "cccccc",
+        "header_background": "f2f2ec",
+        "header_primary": "333333",
+        "highlight": "f2ecbf",
+        "danger": "d16528",
+        "success": "688a68",
+        "love": "d16528"
+      }
+  },
+  "components": [
+    "https://github.com/discourse/discourse-clickable-topic.git","https://github.com/tshenry/discourse-versatile-banner.git"
+  ]
+}
