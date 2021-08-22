@@ -153,6 +153,13 @@ p>code, li>code, pre>code {
     transition: all 0.25s;
 }
 
+// Settings: Hide user card bg
+@if $hide_user_card_background == 'true' {
+  .user-card .card-content, .group-card .card-content {
+    background: #fff;
+  }
+}
+
 // Header
 .d-header {
     padding: 15px 0;
@@ -260,11 +267,12 @@ p>code, li>code, pre>code {
     background: var(--tertiary-hover);
 }
 
-// User cards
+/* User cards
 .user-card .card-content, .group-card .card-content {
     padding: 35px 30px;
     background: #fff;
 }
+*/
 
 // Badges
 .badge-wrapper.box {
@@ -402,9 +410,6 @@ div.poll {
 }
 .nav-pills>li a.active {
     background-color: var(--tertiary);
-}
-.nav-pills>li:nth-last-child(2)>a {
-    display: none;
 }
 tbody {
     border-top: 1px solid var(--quaternary);
