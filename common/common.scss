@@ -8,6 +8,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
 
+
 // Text styling
 body, h1, h2, h3, h4, h5 {
     font-family: 'DM Sans', sans-serif;
@@ -169,9 +170,7 @@ p>code, li>code, pre>code {
 .d-header-icons .d-icon {
     font-size: var(--font-up-2);
 }
-.d-header #site-logo {
-    height: 2em;
-}
+
 
 // Homepage banner
 #main .banner-box .container {
@@ -206,6 +205,15 @@ p>code, li>code, pre>code {
 .user-menu .quick-access-panel .read {
     background-color: #fff;
 }
+
+.do-not-disturb-inner-container {
+    background-color: #fff;
+}
+
+.do-not-disturb-inner-container:hover {
+    background-color: var(--highlight-medium);
+}
+
 .empty-state .empty-state-body p {
     font-size: 20px;
 }
@@ -325,6 +333,10 @@ p>code, li>code, pre>code {
     transition: all 0.25s;
 }
 
+.category-boxes .category-box-inner, .category-boxes-with-topics .category-box-inner {
+    border: 1px solid var(--primary-low-mid);
+}
+
 // Categories page: Boxes with featured topics
 .category-boxes-with-topics .featured-topics li a {
     font-size: 18px;
@@ -336,6 +348,29 @@ p>code, li>code, pre>code {
 .featured-topics .svg-icon {
     display: none;
 }
+
+// Do not Disturb
+
+.modal-inner-container {
+    background-color: #fff;
+}
+
+.modal-header {
+    border-bottom: none;
+}
+
+.modal-header h3 {
+    font-size: var(--font-up-2-rem);
+}
+
+.tap-tile-grid .tap-tile:hover {
+    background-color: var(--highlight-medium);
+}
+
+
+
+
+
 
 // Various
 aside.onebox {
@@ -363,8 +398,14 @@ div.poll {
     padding: 30px 10px;
 }
 .title, .raw-link, .raw-topic-link {
-    font-size: 20px;
+    font-size: 22px;
 }
+
+.topic-list-item.visited a.title:not(.badge-notification) {
+    font-size: 22px;
+}
+
+
 .small-action {
     border-top: 1px solid;
     border-color: var(--quaternary);
@@ -379,6 +420,11 @@ div.poll {
 .topic-map section:nth-of-type(2) {
     border: none;
 }
+
+.topic-map {
+    border: none;
+}
+
 .topic-list thead {
     text-transform: uppercase;
     font-weight: bold;
@@ -487,4 +533,8 @@ tr {
 .topic-list-item.visited span.badge-category, .latest-topic-list-item.visited span.badge-category, .category-topic-link.visited span.badge-category {
     font-size: 1em;
     margin-left: 5px;
+}
+
+.topic-status-info, .topic-timer-info {
+    border-color: var(--primary-low-mid)
 }

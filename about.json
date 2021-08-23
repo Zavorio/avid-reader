@@ -5,6 +5,7 @@
   "color_schemes": {
     "Avid Reader Palette": {
         "primary": "333333",
+        "primary-medium": "7e7f7f",
         "secondary": "f2f2ec",
         "tertiary": "d16528",
         "quaternary": "cccccc",
