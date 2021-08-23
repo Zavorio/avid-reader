@@ -481,3 +481,8 @@ tr {
 .popup-menu .btn:focus, .popup-menu .btn:hover {
     background-color: var(--highlight-medium);
 }
+
+.topic-list-item.visited span.badge-category, .latest-topic-list-item.visited span.badge-category, .category-topic-link.visited span.badge-category {
+    font-size: 1em;
+    margin-left: 5px;
+}
