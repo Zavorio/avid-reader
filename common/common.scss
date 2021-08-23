@@ -153,14 +153,12 @@ p>code, li>code, pre>code {
     transition: all 0.25s;
 }
 
-/*
-// Settings: User card bg
-{{#if (theme-setting 'hide_user_card_backgrounds')}}
-.user-card .card-content, .group-card .card-content {
+// Settings: Hide user card bg
+@if $hide_user_card_background == 'true' {
+  .user-card .card-content, .group-card .card-content {
     background: #fff;
+  }
 }
-{{/if}}
-*/
 
 // Header
 .d-header {
