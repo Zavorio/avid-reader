@@ -350,7 +350,6 @@ p>code, li>code, pre>code {
 }
 
 // Do not Disturb
-
 .modal-inner-container {
     background-color: #fff;
 }
@@ -366,7 +365,6 @@ p>code, li>code, pre>code {
 .tap-tile-grid .tap-tile:hover {
     background-color: var(--highlight-medium);
 }
-
 
 
 
@@ -537,4 +535,8 @@ tr {
 
 .topic-status-info, .topic-timer-info {
     border-color: var(--primary-low-mid)
+}
+
+.reviewable-settings .reviewable-score-type .title {
+    font-size: 18px;
 }
