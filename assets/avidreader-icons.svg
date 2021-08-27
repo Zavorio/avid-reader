@@ -1,14 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
-<symbol id="avidreader-bookmark" viewBox="0 0 150 150"><defs><style>.cls-1{fill:none;stroke:#231f20;stroke-linecap:round;stroke-linejoin:round;stroke-width:10.53px;}</style></defs><polygon class="cls-1" points="113.44 129.32 75 95.32 36.56 129.32 36.56 20.68 113.44 20.68 113.44 129.32"/>
-</symbol>
-<symbol id="avidreader-flag" viewBox="0 0 150 150"><defs><style>.cls-1{fill:none;stroke:#231f20;stroke-linecap:round;stroke-linejoin:round;stroke-width:10.53px;}</style></defs><path class="cls-1" d="M120.33,84.74a118.15,118.15,0,0,1-15.68,1.42c-9.36,0-18.23-1.91-26.81-3.73S60.17,77,50.66,77c-10.41,0-17,1.22-21,2.43V23.86c2.43-1,8.87-2.76,21-2.76,8.83,0,17.09,1.74,25.88,3.65S94.28,29,104.29,29a132.65,132.65,0,0,0,16.08-1.34l0,57Z"/><line class="cls-1" x1="29.63" y1="16.08" x2="29.63" y2="133.92"/>
-</symbol>
-<symbol id="avidreader-heart" viewBox="0 0 150 150"><defs><style>.cls-1{fill:none;stroke:#231f20;stroke-linecap:round;stroke-linejoin:round;stroke-width:10.53px;}</style></defs><path class="cls-1" d="M45.84,25.44a31.66,31.66,0,0,1,20.8,7.77L75,40.47l8.36-7.26a31.75,31.75,0,1,1,41.62,48l-1.54,1.35L75,124.56l-48.44-42L25,81.17A31.75,31.75,0,0,1,45.84,25.44"/>
-</symbol>
-<symbol id="avidreader-link" viewBox="0 0 150 150"><defs><style>.cls-1{fill:none;stroke:#231f20;stroke-linecap:round;stroke-linejoin:round;stroke-width:10.53px;}</style></defs><path class="cls-1" d="M72,37.13l9-9a28.92,28.92,0,0,1,40.89,0h0a28.92,28.92,0,0,1,0,40.89L103.57,87.32a28.92,28.92,0,0,1-40.89,0h0a28.8,28.8,0,0,1-6.39-9.67"/><path class="cls-1" d="M78,112.87l-9,9a28.92,28.92,0,0,1-40.89,0h0a28.92,28.92,0,0,1,0-40.89L46.43,62.68a28.92,28.92,0,0,1,40.89,0h0a28.77,28.77,0,0,1,5.73,8.16"/>
-</symbol>
-<symbol id="avidreader-more" viewBox="0 0 150 150"><defs><style>.cls-1{fill:#231f20;}</style></defs><circle class="cls-1" cx="33.09" cy="75" r="12.39"/><circle class="cls-1" cx="75" cy="75" r="12.39"/><circle class="cls-1" cx="116.91" cy="75" r="12.39"/>
-</symbol>
-<symbol id="avidreader-reply" viewBox="0 0 150 150"><defs><style>.cls-1{fill:none;stroke:#231f20;stroke-linecap:round;stroke-linejoin:round;stroke-width:10.53px;}</style></defs><polyline class="cls-1" points="58.7 117.08 16.62 75 58.7 32.92"/><path class="cls-1" d="M16.87,75H98a35.38,35.38,0,0,1,35.37,35.37v6.71"/>
-</symbol></svg>
+    <symbol id="avidreader-bookmark" viewBox="0 0 150 150">
+        <defs><style>.cls-1{fill:none;stroke:#231f20;stroke-linecap:round;stroke-linejoin:round;stroke-width:10.53px;}</style></defs><polygon class="cls-1" points="113.44 129.32 75 95.32 36.56 129.32 36.56 20.68 113.44 20.68 113.44 129.32"/>
+    </symbol>
+    <symbol id="avidreader-flag" viewBox="0 0 150 150">
+        <defs><style>.cls-1{fill:none;stroke:#231f20;stroke-linecap:round;stroke-linejoin:round;stroke-width:10.53px;}</style></defs><path class="cls-1" d="M120.33,84.74a118.15,118.15,0,0,1-15.68,1.42c-9.36,0-18.23-1.91-26.81-3.73S60.17,77,50.66,77c-10.41,0-17,1.22-21,2.43V23.86c2.43-1,8.87-2.76,21-2.76,8.83,0,17.09,1.74,25.88,3.65S94.28,29,104.29,29a132.65,132.65,0,0,0,16.08-1.34l0,57Z"/><line class="cls-1" x1="29.63" y1="16.08" x2="29.63" y2="133.92"/>
+    </symbol>
+    <symbol id="avidreader-heart" viewBox="0 0 150 150">
+        <defs><style>.cls-1{fill:none;stroke:#231f20;stroke-linecap:round;stroke-linejoin:round;stroke-width:10.53px;}</style></defs><path class="cls-1" d="M45.84,25.44a31.66,31.66,0,0,1,20.8,7.77L75,40.47l8.36-7.26a31.75,31.75,0,1,1,41.62,48l-1.54,1.35L75,124.56l-48.44-42L25,81.17A31.75,31.75,0,0,1,45.84,25.44"/>
+    </symbol>
+    <symbol id="avidreader-link" viewBox="0 0 150 150">
+        <defs><style>.cls-1{fill:none;stroke:#231f20;stroke-linecap:round;stroke-linejoin:round;stroke-width:10.53px;}</style></defs><path class="cls-1" d="M72,37.13l9-9a28.92,28.92,0,0,1,40.89,0h0a28.92,28.92,0,0,1,0,40.89L103.57,87.32a28.92,28.92,0,0,1-40.89,0h0a28.8,28.8,0,0,1-6.39-9.67"/><path class="cls-1" d="M78,112.87l-9,9a28.92,28.92,0,0,1-40.89,0h0a28.92,28.92,0,0,1,0-40.89L46.43,62.68a28.92,28.92,0,0,1,40.89,0h0a28.77,28.77,0,0,1,5.73,8.16"/>
+    </symbol>
+    <symbol id="avidreader-more" viewBox="0 0 150 150">
+        <defs><style>.cls-1{fill:#231f20;}</style></defs><circle class="cls-1" cx="33.09" cy="75" r="12.39"/><circle class="cls-1" cx="75" cy="75" r="12.39"/><circle class="cls-1" cx="116.91" cy="75" r="12.39"/>
+    </symbol>
+    <symbol id="avidreader-reply" viewBox="0 0 150 150">
+        <defs><style>.cls-1{fill:none;stroke:#231f20;stroke-linecap:round;stroke-linejoin:round;stroke-width:10.53px;}</style></defs><polyline class="cls-1" points="58.7 117.08 16.62 75 58.7 32.92"/><path class="cls-1" d="M16.87,75H98a35.38,35.38,0,0,1,35.37,35.37v6.71"/>
+    </symbol>
+</svg>
