@@ -18,7 +18,7 @@
       }
   },
   "assets": {
-    "icons-sprite": "/assets/avidreader-icons.svg"
+    "icons-sprite": "/assets/avidreader-icons.svg",
  }
   "components": [
     "https://github.com/discourse/discourse-clickable-topic.git","https://github.com/tshenry/discourse-versatile-banner.git"
