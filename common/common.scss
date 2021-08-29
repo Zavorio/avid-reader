@@ -400,6 +400,10 @@ div.poll {
     font-size: 22px;
 }
 
+.quote .title, .raw-link, .raw-topic-link {
+    font-size: 16px;
+}
+
 .topic-list-item.visited a.title:not(.badge-notification) {
     font-size: 22px;
 }
@@ -544,4 +548,8 @@ tr {
 
 hr {
     border-color: var(--quaternary);
+}
+
+.select-kit .select-kit-row.is-highlighted:hover {
+    background-color: var(--highlight-medium);
 }
