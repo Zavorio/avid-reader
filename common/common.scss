@@ -550,6 +550,6 @@ hr {
     border-color: var(--quaternary);
 }
 
-.select-kit .select-kit-row.is-highlighted:hover {
+.select-kit .select-kit-collection:hover .select-kit-row.is-highlighted:hover {
     background-color: var(--highlight-medium);
 }
