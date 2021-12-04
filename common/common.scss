@@ -242,7 +242,8 @@ p>code, li>code, pre>code {
 #navigation-bar {
     margin-left: 20px;
 }
-.select-kit.combo-box .select-kit-header {
+.select-kit.combo-box .select-kit-header,
+.select-kit.multi-select .multi-select-header {
     background-color: var(--primary-low);
     border: none;
 }
