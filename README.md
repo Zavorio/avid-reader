@@ -1,6 +1,6 @@
 # Avid Reader
-A Discourse theme focused on readability, inspired by Pocket. Created by:
-* Carlos Saborío - https://zavorio.com/
-* Seniorita Polyester - https://senioritapolyester.com/
+A Discourse theme focused on readability, inspired by Pocket. 
 
-More info here: www.url.com
+Originally created by Carlos Saborío and Seniorita Polyester
+
+More info here: https://meta.discourse.org/t/avid-reader-a-theme-focused-on-readability/20215
